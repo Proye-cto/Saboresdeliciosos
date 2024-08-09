@@ -17,7 +17,7 @@ try {
     echo "Error: no se pudo conectar a la BD";
 }
 
-$URL = "http://localhost/Sabores ";
+$URL = "https://proye-cto.github.io/Saboresdeliciosos/ ";
 
 date_default_timezone_set("America/Mexico_City");
 $fechaHora = date('Y-m-d H:i:s');
